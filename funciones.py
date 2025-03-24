@@ -1,6 +1,6 @@
-def duma (a, b):
+def suma (a, b):
     return a+b
 
-def funcion (a,b):
-    return a-b
+def multiplicacion (a,b):
+    return a*b
 
